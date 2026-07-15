@@ -147,6 +147,9 @@ Example:
 - AI-Based Recommendation Systems
 
 ---
+📺 **Watch the Project Demo Here**
+
+👉 https://drive.google.com/file/d/1xsTzsNQAIa4so7tw_l84bowFAeRFmU6X/view?usp=sharing
 
 ## ⭐ If you like this project
 
